@@ -1,0 +1,7 @@
+file_name,66.png,,,,,,,,,,,,,,,,,,,
+var_name,team1_player1,team1_player2,team1_player3,team1_player4,team1_player5,team2_player1,team2_player2,team2_player3,team2_player4,team2_player5,judge1,judge2,judge3,ball,court_p2,court_p3,court_centre,goal_whole,goal_board,goal_ring_and_net
+colour,"""ff0000""","""dd0000""","""bb0000""","""990000""","""770000""","""0000ff""","""0000dd""","""0000bb""","""000099""","""000077""","""ff00ff""","""dd00dd""","""bb00bb""","""ffff00""","""00ff00""","""00dd00""","""00bb00""","""dddd00""","""bbbb00""","""999900"""
+blur,,,,,,,,TRUE,,,,,,,,,,,,
+blur_hard,,,,,,,,TRUE,,,,,,,,,,,,
+occulusion,TRUE,TRUE,TRUE,TRUE,,,TRUE,,TRUE,TRUE,,,TRUE,,,,,,,
+occulusion_hard,,,,,,,,,,,,,,,,,,,,
